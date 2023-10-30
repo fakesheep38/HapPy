@@ -3,7 +3,7 @@
 This repository contains code and resources for creating a dashboard using Panel, enabling the visualization of the World Happiness Report from 2015 to 2023. This allows for the graphical representation and comparison of various developments in metrics such as country rankings, happiness scores, and explanatory variables. Additionally, the dashboard includes world maps based on different variables, displaying data sorted by year.
 
 ## Quick Start Guide: 
-All data is located in the "Data" folder. The "data_merge" script combines data from various years into a single file named "data_merged." The "eda" script performs an insightful data analysis. To create the dashboard, use the "dashboard" script. To serve the dashboard locally, use the following command:
+All data is located in the "Data" folder. The "data_merge" script combines data from various years into a single file named "data_merged." The "eda" script performs an insightful data analysis. To create the dashboard, use the "dashboard" script. To serve the dashboard locally, use the following command: panel serve dashboard.ipynb
 
 
 ## Data Sources
