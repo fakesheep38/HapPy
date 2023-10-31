@@ -17,8 +17,9 @@ The code in this repository builds upon code and libraries from other repositori
 
 - Initial idea: [Towards Data Science](https://towardsdatascience.com/visualizing-worldwide-covid-19-data-using-python-plotly-maps-c0fba09a1b37)
 - Initial Dashboard via Panel: [thu-vu92's GitHub Repository](https://github.com/thu-vu92/python-dashboard-panel)
+	-> this repository provided the  main framework for our dashboard 
 - Interactive World Map: [Medium Article](https://medium.com/@patohara60/interactive-mapping-in-python-with-uk-census-data-using-geoviews-and-panel-fcba3de07778)
-
+	-> some ideas on how to create an interactive world map were taken from here
 ### GeoPandas
 
 We use the GeoPandas library to process geospatial data and formats and to display world maps. [GeoPandas Repository](https://github.com/geopandas/geopandas)
