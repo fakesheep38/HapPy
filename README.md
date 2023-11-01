@@ -42,7 +42,7 @@ Please note that the repositories mentioned above each have their own licenses. 
 ## Authors
 
 - [Samuel Eleazar Wendt](https://github.com/Weltall-Erde-Mensch)
-- [Aniko Bagyi](https://github.com/DAT-Aniko)
+- [Aniko Bagyi](https://github.com/AnikoBagyi)
 - [Laura Jacob](https://github.com/fakesheep38)
 
 ## Questions and Support
