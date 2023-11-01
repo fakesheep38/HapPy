@@ -10,6 +10,7 @@ All data is located in the "Data" folder. The "data_merge" script combines data 
 The data used in this project has been provided by the authors of the World Happiness Report and was accessed via Kaggle. 
 - Data up to 2022: [World Happiness Report on Kaggle](https://www.kaggle.com/datasets/mathurinache/world-happiness-report) - License: CC0: Public Domain
 - Data for 2023: [World Happiness Report 2023 on Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023) - License: CC0: Public Domain
+- World Shape: [Natural Earth Data - Admin 0 - Countries](https://www.naturalearthdata.com/downloads/110m-cultural-vectors/)
 
 ## Code Attribution
 
