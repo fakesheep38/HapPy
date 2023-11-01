@@ -11,9 +11,12 @@ The data used in this project has been provided by the authors of the World Happ
 - Data up to 2022: [World Happiness Report on Kaggle](https://www.kaggle.com/datasets/mathurinache/world-happiness-report) - License: CC0: Public Domain
 - Data for 2023: [World Happiness Report 2023 on Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023) - License: CC0: Public Domain
 
+The vector map data has been provided by Natural Earth and was accessed via their website.
+- World Shape: [Natural Earth Data - Admin 0 - Countries](https://www.naturalearthdata.com/downloads/110m-cultural-vectors/) - License: CCO: Public Domain
+
 ## Code Attribution
 
-The code in this repository builds upon code and libraries from other repositories. We would like to express our gratitude to the original authors and developers for their work and open-source contributions. Here are the repositories and parts of the code we have used:
+The code in this repository builds upon code and libraries from other repositories. We would like to express our gratitude to the original authors and developers for their work and open-source contributions. Here are the repositories and parts of the code we have used for inspiration:
 
 - Initial idea: [Towards Data Science](https://towardsdatascience.com/visualizing-worldwide-covid-19-data-using-python-plotly-maps-c0fba09a1b37)
 - Initial Dashboard via Panel: [thu-vu92's GitHub Repository](https://github.com/thu-vu92/python-dashboard-panel)
@@ -28,9 +31,9 @@ We use the GeoPandas library to process geospatial data and formats and to displ
 
 We use the Panel framework to create interactive widgets and dashboards for the user interface of the world maps. [Panel Repository](https://github.com/holoviz/panel)
 
-### Matplotlib
+### Hvplot
 
-The Matplotlib library is used to create and visualize the world maps. [Matplotlib Repository](https://github.com/matplotlib/matplotlib)
+The Hvplot library is used to create interactively explorable Bokeh plots with panning, zooming, hovering, and clickable/selectable legends. [Hvplot Repository](https://github.com/holoviz/hvplot)
 
 ## License
 
