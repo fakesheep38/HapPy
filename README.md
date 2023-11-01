@@ -30,7 +30,7 @@ We use the Panel framework to create interactive widgets and dashboards for the 
 
 ### Hvplot
 
-The Hvplot library is used to create and visualize the world maps. [Hvplot Repository](https://github.com/holoviz/hvplot)
+The Hvplot library is used to create interactively explorable Bokeh plots with panning, zooming, hovering, and clickable/selectable legends:. [Hvplot Repository](https://github.com/holoviz/hvplot)
 
 ## License
 
