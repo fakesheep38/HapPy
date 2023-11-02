@@ -11,7 +11,7 @@ The data used in this project has been provided by the authors of the World Happ
 - Data up to 2022: [World Happiness Report on Kaggle](https://www.kaggle.com/datasets/mathurinache/world-happiness-report) - License: CC0: Public Domain
 - Data for 2023: [World Happiness Report 2023 on Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023) - License: CC0: Public Domain
 
-The vector map data has been provided by Natural Earth and was accessed via their website.
+The vector map data was provided by Natural Earth and accessed from their website.
 - World Shape: [Natural Earth Data - Admin 0 - Countries](https://www.naturalearthdata.com/downloads/110m-cultural-vectors/) - License: CCO: Public Domain
 
 ## Code Attribution
