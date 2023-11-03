@@ -1,3 +1,5 @@
+![dashboard_screen](https://github.com/fakesheep38/HapPy/assets/52937375/3f0bed9e-b064-434c-ac24-69224a3e8e64)
+
 # World Map Visualization
 
 This repository contains code and resources for creating a dashboard using Panel, enabling the visualization of the World Happiness Report from 2015 to 2023. This allows for the graphical representation and comparison of various developments in metrics such as country rankings, happiness scores, and explanatory variables. Additionally, the dashboard includes world maps based on different variables, displaying data sorted by year.
